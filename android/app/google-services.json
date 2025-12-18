@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "914942804300",
+    "project_id": "healtharcade",
+    "storage_bucket": "healtharcade.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914942804300:android:3d99f0b5ded01cfbbfcfe9",
+        "android_client_info": {
+          "package_name": "com.example.healtharcadia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914942804300-dmjqofkd4uvsibhf5q5pfgtb7uf0a2rd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healtharcadia",
+            "certificate_hash": "4b9151225189f196b6edc2e99e1c578b11653191"
+          }
+        },
+        {
+          "client_id": "914942804300-hdqf7jmd7nv79b9uokl33l2t7kv3b42m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIPnhcPwa4eabkvCFfV4M5gX-YiR4mJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914942804300-hdqf7jmd7nv79b9uokl33l2t7kv3b42m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "914942804300-87os7tpto30lu596jopfi5v56lut1f34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.healtharcadia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
